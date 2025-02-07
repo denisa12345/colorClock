@@ -1,0 +1,13 @@
+html, body {
+  height: 100%;
+  font-family: 'Prompt', sans-serif;
+  color:white;
+}
+
+#clock {
+  text-align: center;
+  position: relative;
+  bottom:-50%;
+  font-size:3rem;
+  margin-top: -1.5rem;
+}
